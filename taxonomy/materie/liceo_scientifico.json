@@ -8,7 +8,7 @@
     // esistenti in secondaria_secondo_grado.json
     {"entity": "taxonomy_term", "type": "materie", "id": 2232, "attributes": {"miur_class_id": "A026", "name": "Matematica", "description": "Matematica, con Informatica al primo biennio."}, "uuid": "7230c152-ddc8-4644-837a-583ec4df57bf"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2218, "attributes": {"miur_class_id": "A020", "name": "Fisica", "description": "Fisica."}, "uuid": "e9a3e609-eb80-471d-b3ba-2620053af19f"},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2250, "attributes": {"miur_class_id": "A048", "name": "Scienze motorie", "description": "Scienze motorie e sportive negli istituti di istruzione secondaria di II grado."}, "uuid": "fe52b370-e494-4b01-a966-48e735be7a8a"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2250, "attributes": {"miur_class_id": "A048", "name": "Scienze motorie e sportive", "description": "Scienze motorie e sportive negli istituti di istruzione secondaria di II grado."}, "uuid": "fe52b370-e494-4b01-a966-48e735be7a8a"},
     // fine esistenti
     {"entity": "taxonomy_term", "type": "materie", "id": 2306, "attributes": {"miur_class_id": "A050", "name": "Scienze naturali", "description": "Scienze naturali, Biologia, Chimica e Scienze della Terra."}, "uuid": "edef7f1f-e243-438b-ba5b-de1baba5beef"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2307, "attributes": {"miur_class_id": "A017", "name": "Disegno e storia dell’arte", "description": "Disegno e storia dell’arte."}, "uuid": "85802a21-26fd-4f23-99f3-85d5e73266fc"},
