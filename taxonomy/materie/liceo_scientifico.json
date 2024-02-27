@@ -1,4 +1,5 @@
-"data": [
+{
+  "data": [
     {"entity": "taxonomy_term", "type": "materie", "id": 2300, "attributes": {"miur_class_id": "A013", "name": "Lingua e letteratura italiana", "description": "Lingua e letteratura italiana."}, "uuid": "186b35fd-fe10-48d4-b8c8-b1c418cdfb7b"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2301, "attributes": {"miur_class_id": "A011", "name": "Lingua e cultura latina", "description": "Lingua e cultura latina."}, "uuid": "b6dd604f-ec1f-45f4-8d69-9701c6830848"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2302, "attributes": {"miur_class_id": "A022", "name": "Lingua e cultura straniera", "description": "Lingua e cultura straniera."}, "uuid": "89e30d58-22d6-4e8e-b8fc-4cbcba6898e6"},
