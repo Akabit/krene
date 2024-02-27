@@ -5,13 +5,12 @@
     {"entity": "taxonomy_term", "type": "materie", "id": 2303, "attributes": {"miur_class_id": "A012", "name": "Storia e Geografia", "description": "Storia e Geografia."}, "uuid": "5772b80e-8ad9-4c7a-aa9a-b85331535dee"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2304, "attributes": {"miur_class_id": "A019", "name": "Storia", "description": "Storia."}, "uuid": "b9e10cd4-6700-4fa3-89bf-9ad1e2976088"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2305, "attributes": {"miur_class_id": "A019", "name": "Filosofia", "description": "Filosofia."}, "uuid": "08aad429-9f03-4cdf-9982-9c635a666b5a"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2306, "attributes": {"miur_class_id": "A050", "name": "Scienze naturali", "description": "Scienze naturali, Biologia, Chimica e Scienze della Terra."}, "uuid": "edef7f1f-e243-438b-ba5b-de1baba5beef"},
     // esistenti in secondaria_secondo_grado.json
     {"entity": "taxonomy_term", "type": "materie", "id": 2232, "attributes": {"miur_class_id": "A026", "name": "Matematica", "description": "Matematica, con Informatica al primo biennio."}, "uuid": "7230c152-ddc8-4644-837a-583ec4df57bf"},
+    {"entity": "taxonomy_term", "type": "materie", "id": 2215, "attributes": {"miur_class_id": "A017", "name": "Disegno e storia dell'arte", "description": "Disegno e storia dell'arte negli istituti di istruzione secondaria di II grado."}, "uuid": "158784e4-85fd-4a86-a577-a33e43b4cca9"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2218, "attributes": {"miur_class_id": "A020", "name": "Fisica", "description": "Fisica."}, "uuid": "e9a3e609-eb80-471d-b3ba-2620053af19f"},
     {"entity": "taxonomy_term", "type": "materie", "id": 2250, "attributes": {"miur_class_id": "A048", "name": "Scienze motorie e sportive", "description": "Scienze motorie e sportive negli istituti di istruzione secondaria di II grado."}, "uuid": "fe52b370-e494-4b01-a966-48e735be7a8a"},
-    // fine esistenti
-    {"entity": "taxonomy_term", "type": "materie", "id": 2306, "attributes": {"miur_class_id": "A050", "name": "Scienze naturali", "description": "Scienze naturali, Biologia, Chimica e Scienze della Terra."}, "uuid": "edef7f1f-e243-438b-ba5b-de1baba5beef"},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2307, "attributes": {"miur_class_id": "A017", "name": "Disegno e storia dell’arte", "description": "Disegno e storia dell’arte."}, "uuid": "85802a21-26fd-4f23-99f3-85d5e73266fc"},
-    {"entity": "taxonomy_term", "type": "materie", "id": 2308, "attributes": {"miur_class_id": "RLSS", "name": "Religione cattolica o Attività alternative", "description": "Religione nella scuola secondaria di II grado."}, "uuid": "1f8417ec-f694-4f3d-8210-1419f0afee5e"}
+    {"entity": "taxonomy_term", "type": "materie", "id": 2283, "attributes": {"miur_class_id": "RLSS", "name": "Religione o Attività alternative", "description": "Religione nella scuola secondaria di II grado."}, "uuid": "f1f8055c-d896-46e0-adaf-ae30841e8ddc"}
   ]
 }
